@@ -1,0 +1,9 @@
+CMake*
+cmake*
+Make*
+*.json
+videos/
+*.swp
+tracker
+.cache/
+
